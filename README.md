@@ -1,5 +1,7 @@
 # 💫 About Me:
+<p align="justify">
 Hello, I'm Pandhu Picahyo, a software engineer with a background in engineering physics. I graduated from Gadjah Mada University and later transitioned into software engineering. I am a self-driven and collaborative individual who actively participates in research-oriented student organizations. My focus has been on back-end development, particularly with the Go programming language. Additionally, I have experience as a junior Java developer and a junior Golang Backend developer. I have a passion for studying programming languages and have contributed to the development of an e-commerce website, enhancing its functionality and data updating capabilities. I also enjoy enhancing my programming skills through challenges on various websites, and I am particularly interested in studying other programming languages with the goal of creating games in the future. Outside of work, I enjoy staying informed by reading news articles and love reading novels.
+</p>
 
 
 ## 🌐 Socials:
